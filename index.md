@@ -1,2 +1,5 @@
+<html>
+  <body>
 <h1>Code !</h1>
-<script>alert(hello!);</script>
+  </body>
+  </html>
